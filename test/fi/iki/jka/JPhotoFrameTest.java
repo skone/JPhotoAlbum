@@ -18,6 +18,7 @@ public class JPhotoFrameTest {
     public void instantiateJPhotoFrame() throws Exception
     {
         setJphotoFrame(new JPhotoFrame("Test Frame Name",new String[] {"/resources/pics/directory.png"}));
+
     }
 
 
